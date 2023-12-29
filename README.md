@@ -1,6 +1,4 @@
-# HeartDisease
-**Project Title: Heart Disease Analysis using Machine Learning Algorithms**
-
+# Heart Disease Analysis using Machine Learning Algorithms
 **Project Overview:**
 
 Cardiovascular diseases remain a leading cause of morbidity and mortality worldwide. This project aims to develop a predictive model for heart disease analysis using machine learning algorithms. The analysis will focus on various factors such as age, gender, maximum heart rate, and chest pain type to provide valuable insights into potential risk factors.
